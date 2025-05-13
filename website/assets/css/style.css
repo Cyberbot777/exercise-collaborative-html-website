@@ -1,16 +1,13 @@
 body {
   background: white;
-  margin: 0;
-  padding: 0;
 }
-
 
 .hero-section {
   background-image: url('/website/assets/img/bg.jpg');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat; 
-  height: 800px; */
+  height: 800px;
 }
 
 .hero-text-container {
