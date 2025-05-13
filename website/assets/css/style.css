@@ -1,3 +1,40 @@
+
+.hero-section {
+  background-image: url('/website/assets/img/bg.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+}
+
+.hero-overlay {
+  background: rgba(0, 0, 0, 0.5); 
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+.hero-section h1 {
+  font-size: 4rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.hero-section h2 {
+  font-size: 2rem;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.hero-section p {
+  font-size: 1.2rem;
+  margin-top: 1rem;
+}
+
 body {
     background: ffffff;
 }
