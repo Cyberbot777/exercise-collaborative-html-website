@@ -1,9 +1,6 @@
-body{
-    background: #BDBDBD;
-}
 
 .hero-section {
-  background-image: url('/workspaces/exercise-collaborative-html-website/website/assets/img/bg.jpg');
+  background-image: url('/website/assets/img/bg.jpg');
   background-size: cover;
   background-position: center;
   height: 600px;
@@ -16,7 +13,7 @@ body{
 }
 
 .hero-overlay {
-  background: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay for text readability */
+  background: rgba(0, 0, 0, 0.5); 
   padding: 2rem;
   border-radius: 10px;
 }
@@ -36,4 +33,17 @@ body{
 .hero-section p {
   font-size: 1.2rem;
   margin-top: 1rem;
+}
+
+body {
+    background: ffffff;
+}
+
+.box {
+    width: 100%;
+    height: 200px;
+}
+
+#pft {
+    font-size: small;
 }
