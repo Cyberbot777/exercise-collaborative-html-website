@@ -43,3 +43,7 @@ body {
   border-radius: 100%;
   object-fit: cover;
 }
+
+.team-spacer {
+  margin-bottom: 75px;
+}
