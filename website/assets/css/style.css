@@ -43,3 +43,6 @@ body {
   border-radius: 100%;
   object-fit: cover;
 }
+.container-fluid nav {
+  padding-left: 20px;
+}
