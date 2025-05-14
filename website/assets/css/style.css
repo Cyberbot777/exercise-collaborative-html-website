@@ -11,7 +11,7 @@ body {
   background-size: cover; 
   background-position: center;
   background-repeat: no-repeat; 
-  height: 800px; /
+  height: 800px;
   margin: 0; 
 }
 
@@ -42,6 +42,9 @@ body {
 .heisenberg {
   border-radius: 100%;
   object-fit: cover;
+}
+.container-fluid nav {
+  padding-left: 20px;
 }
 
 .team-spacer {
